@@ -1,9 +1,9 @@
 <?php
 
-$servername = "localhost"; // or use the IP address if your MySQL server is on a different host
-$username = "root";
-$password = "";
-$dbname = "contact_form_db";
+$servername = "db1.ho.ua"; // or use the IP address if your MySQL server is on a different host
+$username = "nosleepcoders";
+$password = "usdthunter312";
+$dbname = "nosleepcoders";
 
 $conn = new mysqli($servername, $username, $password, $dbname);
 
